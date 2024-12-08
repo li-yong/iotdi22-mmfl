@@ -1,0 +1,6 @@
+
+*.pyc
+/src/venv
+*.json
+/data
+/download
